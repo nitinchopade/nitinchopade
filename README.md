@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nitinchopade
+- 👀 I’m interested in exploring new tech things.
+- 🌱 I’m currently learning CircleCi.
+- 📫 You can reach-out to me via https://www.linkedin.com/in/nitin-chopade
