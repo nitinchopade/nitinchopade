@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Nitin Chopade, a Sr. Software Engineer from 🇮🇳 passionate about DevOps with 3+ years of professional onsite as well as remote working experience. 🎯
 - 👀 I’m interested in exploring new tech things.
-- 🌱 I’m currently learning CircleCi.
-- 📫 You can reach-out to me via 
+- 📫 You can reach-out to me via an email: nitinchopade11@gmail.com
