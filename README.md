@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Chopade</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitinchopade" alt="nitinchopade" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nitinchopade8" target="blank"><img src="https://img.shields.io/twitter/follow/nitinchopade8?logo=twitter&style=for-the-badge" alt="nitinchopade8" /></a> </p>
 
 - 🔭 I’m currently working in **Teksystems GLobal Services**
