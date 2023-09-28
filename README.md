@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Docker, Jenkins, Ansible, AWS, Terraform, K8S**
+- 💬 Ask me about **Docker, Jenkins, Ansible, AWS, Terraform, K8S & ETC**
 
 - 📫 How to reach me **nitinchopade11@gmail.com**
 
