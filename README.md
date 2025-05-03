@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/nitinchopade8" target="blank"><img src="https://img.shields.io/twitter/follow/nitinchopade8?logo=twitter&style=for-the-badge" alt="nitinchopade8" /></a> </p>
 
-- 🔭 I’m currently working in **Teksystems GLobal Services**
+- 🔭 I’m currently working in **Intellect Design Arena**
 
-- 🌱 I’m currently learning **K8S, Terraform**
+- 🌱 I’m currently learning **Python, Terraform**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **Docker, Jenkins, Ansible, AWS, Terraform, K8S & ETC**
+- 💬 Ask me about **Docker, Jenkins, AWS, Terraform, K8S, Observability, FinOps**
 
 - 📫 How to reach me **nitinchopade11@gmail.com**
 
