@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I’m looking for collaboration with **DevOps** People
 
 - 💬 Ask me about **Docker, Jenkins, AWS, Terraform, K8S, Observability, FinOps**
 
